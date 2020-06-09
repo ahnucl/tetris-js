@@ -1,0 +1,10 @@
+{
+  "name": "tetris-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leonardo Cunha <lalmcunha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.9.5"
+  }
+}
